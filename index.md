@@ -14,8 +14,6 @@
 * **Degree:** Bachelor
 * **Major:** Information Management and Information System
 
----
-
 ## **Specialty**
 
 * Proficiency in object-oriented programming languages, such as JAVA/JS.
