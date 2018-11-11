@@ -1,4 +1,4 @@
-# <center> **Hello, This is me, Find my difference！** </center>
+# <center> Hello, This is me, Find my difference!</center>
 
 ## **Basic Info**
 
@@ -13,7 +13,9 @@
 * **Experience:** 4 Years  
 * **Degree:** Bachelor
 * **Major:** Information Management and Information System
+
 ---
+
 ## **Specialty**
 
 * Proficiency in object-oriented programming languages, such as JAVA/JS.
