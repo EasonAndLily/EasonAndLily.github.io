@@ -4,7 +4,7 @@
 @import 'jekyll-theme-minimal';
 
 .body-theme {
-  padding: 20px 50px;
+  padding: 10px 50px;
 }
 
 .font {
@@ -53,13 +53,15 @@
 .section h1 {
   margin: 0px;
   padding: 8px 0px;
-  background-color: rgba(0, 0, 0, 0.03);
+  background-color: rgba(71, 70, 70, 0.03);
 }
 
 .section h2 {
   margin: 0px;
   padding: 5px 0px;
   background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgb(71, 72, 73);
+  border-top: 1px solid rgb(71, 72, 73);
 }
 
 .section h3 {
@@ -70,6 +72,11 @@
 .section h4 {
   margin: 0px;
   padding: 2px 15px;
+}
+
+.section p {
+  margin: 0px;
+  padding: 0px 15px;
 }
 
 hr {
