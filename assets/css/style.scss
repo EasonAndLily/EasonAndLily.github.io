@@ -3,13 +3,22 @@
 
 @import 'jekyll-theme-minimal';
 
+.body-theme {
+  padding: 20px 50px;
+}
+
 .font {
   font-family: STXingkai, STKaiti, Arial, Helvetica, sans-serif;
 }
 
 .card-title {
   margin: 0px;
-  padding: 0px;
+  padding: 5px;
+  background-color: rgba(0, 0, 0, 0.03);
+}
+.card-item {
+  margin: 0px;
+  padding: 3px 5px;
 }
 
 .bg-gray {
@@ -34,4 +43,5 @@
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
+  margin-top: 10px;
 }

@@ -11,30 +11,28 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-  <body class="font bg-gray">
+  <body class="font bg-gray body-theme">
     <div class="wrapper">
       <header>
         <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" class="shadow" />
         {% endif %}
-        <div>
-            <div class="card">
-                <h2 class="card-title">基本信息</h2>
-                    <h6>
-                        姓名：{{site.name}}
-                    </h6>
-                    <h6>
-                        电话：{{site.phone}}
-                    </h6>
-                    <h6>
-                        邮箱：{{site.email}}
-                    </h6>
-                    <h6>
-                        住址：{{site.address}}
-                    </h6>
-            </div>
+        <div class="card shadow">
+            <h2 class="card-title">基本信息</h2>
+            <h4 class="card-item">
+                姓名：{{site.name}}
+            </h4>
+            <h4 class="card-item">
+                电话：{{site.phone}}
+            </h4>
+            <h4 class="card-item">
+                邮箱：{{site.email}}
+            </h4>
+            <h4 class="card-item">
+                住址：{{site.address}}
+            </h4>
         </div>
 
         <!-- <p>{{ site.description | default: site.github.project_tagh6ne }}</p> -->
