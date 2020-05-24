@@ -1,23 +1,35 @@
-# <center> Hello, This is me, Find my difference!</center>
+# 软件咨询师、软件全栈开发工程师、IT培训师
 
-## **Basic Info**
+## 基本技能
 
-<img src='https://avatars3.githubusercontent.com/u/20301767?s=460&v=4' style='float:right; width:200px;height:200 px'/>
+### 软件工程基本技能
 
-* **Name:** Eason Li
-* **Job:** Full Stack Developer
-* **Domain:** JAVA/JS/DDD/Microservice/Counselor
-* **Company:** [Thoughtworks](https://www.thoughtworks.com/)
-* **Email：** jinhli@thoughtworks.com
-* **Phone：** Keep secret, If you need, please seed email.
-* **Experience:** 4 Years  
-* **Degree:** Bachelor
-* **Major:** Information Management and Information System
+* **前端：** HTML/CSS/Less/JavaScript/ES6/JQuery/React/Vue/Webpack
+* **后端：** Java/Spring Boot/Spring Data JPA/Struts/Hibernate/Flyway
+* **测试：** TDD/Junit/单元测试/集成测试/契约测试
+* **数据库：** MySQL/SQLServer/MongoDB/Redis
+* **架构设计：** MVC/微服务/领域驱动设计/Restful架构/设计模式
+* **Devops:** Git/Jenkins/Docker/K8s/Nginx
+* **操作系统：** Windows/Linux/Mac
 
-## **Specialty**
+### IT培训基本技能
 
-* Proficiency in object-oriented programming languages, such as JAVA/JS.
-* Master the relational database and NoSQL database, such as Mysql/ SQL Server/ MongoDb/ redis.
-* Like to learn front-end technology, such as HTML/ CSS/ Bootstrap/ JQuery/ React/ Webpack.
-* Proficiency in architectural design, such MVC/ DDD/ Microservice.
-* Learn a little about Devops, such as CI/ CD/ Docker/ K8s.
+* 能够根据公司战略及市场需求来定位培训的目标，制定培训的验收标准
+* 能够根据培训目标，设计合理的课程内容、流程、体系、教学场景等。
+* 掌握常用的基本授课技能：表达力、引导力、控场力等。
+* 擅长以学员为主体的培训模式，翻转课堂，善于激发学员学习的参与性、积极性，注重个体对知识思考和理解差异性，让学员从内* 心深处发生积极而持久的改变。
+* 擅长以段子驱动的教学方式。
+
+## 培训工作经验--1.5年
+
+### TW非计算机毕业生培训         2018/11 ~ 2020/06
+
+#### 项目描述
+
+非计培训是《TW 零基础IT人才战略》的重要组成部分，在公司规模化扩张的道路上，形成对不同背景的毕业生进行规模化的培养体系，是TW快速发展的后勤保障，为公司差异化的竞争提供能量补给。培训内容为Web基础技能入门，包括前端(HTML/HTML5/CSS/CSS3/JS/ES6)、后端（Restful/Java/MySQL)、软件工程等。本人连续做了两期，第一期为讲师，第二期为PM。
+
+#### 主要职责：非计PM/讲师
+
+* 作为非计培训PM，负责非计培训产品的设计、规划、人才梯队的搭建、考核标准的制定等。
+* 作为非计培训讲师，负责非计课程的研发、教学内容的设计、授课、作业批改、线上答疑等。
+* 负责将非计培训成果的给相关Stakeholder展示，拉通，风险学员的追踪等。
