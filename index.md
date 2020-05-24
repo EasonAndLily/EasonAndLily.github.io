@@ -1,6 +1,6 @@
 # 软件咨询师/软件全栈开发工程师/IT培训师
 
-## <i class="fa fa-cogs" aria-hidden="true"></i> 基本技能
+##  <i class="fa fa-cogs" aria-hidden="true"></i> 基本技能
 
 ### 软件工程基本技能
 
@@ -20,7 +20,7 @@
 * 擅长以学员为主体的培训模式，翻转课堂，善于激发学员学习的参与性、积极性，注重个体对知识思考和理解差异性，让学员从内* 心深处发生积极而持久的改变。
 * 擅长以段子驱动的教学方式。
 
-## <i class="fa fa-briefcase fa-lg" aria-hidden="true"></i> 培训工作经验--1.5年
+##  <i class="fa fa-briefcase" aria-hidden="true"></i> 培训工作经验--1.5年
 
 ### TW非计算机毕业生培训         2018/11 ~ 2020/06
 
@@ -49,7 +49,7 @@ OCL计算机专业应届毕业生入职后培训，总共学员80人，分为4�
 * 负责部分课程的授课、作业批改、答疑等。
 * 负责风险学员的追踪管理。
 
-## <i class="fa fa-briefcase fa-lg" aria-hidden="true"></i> 软件开发工作经验--3.5年
+##  <i class="fa fa-briefcase" aria-hidden="true"></i> 软件开发工作经验--3.5年
 
 ### 招商银行协同工作平台       2018/04 ~ 2018/11
 
